@@ -1,0 +1,23 @@
+{
+  "name": "keypress.js",
+  "version": "2.1.0",
+  "description": "The Keypress.js library",
+  "main": "keypress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UmbraEngineering/keypress-npm"
+  },
+  "keywords": [
+    "keypress",
+    "keystroke",
+    "events"
+  ],
+  "license": "Apache License, version 2.0",
+  "bugs": {
+    "url": "https://github.com/dmauro/Keypress/issues"
+  },
+  "homepage": "http://dmauro.github.io/Keypress/"
+}
